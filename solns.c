@@ -1,4 +1,4 @@
-/#include <stdio.h>
+#include <stdio.h>
 #include <assert.h>
 
 int max(int a[], int n){
@@ -66,5 +66,4 @@ int factors(int n, int a[]){
     } 
   }
   return j;  
-}* Enter your solutions in this file */
-#include <stdio.h>
+}
